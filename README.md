@@ -1,0 +1,1 @@
+This is a project to classify kidney disease from CT scan images. 
